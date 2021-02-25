@@ -11,6 +11,7 @@ int main(int argc, char *argv[]) {
 		cout<<"No se puede abrir el archivo de entrada"<<endl;
 		return 1;
 	}
+	cout<<"2da vez git"<<endl;
 	infile >>height>>weidth;
 	cout<<"Para altura: "<<height<<" y ancho: "<<weidth<<endl;
 	cout<<"El area es: "<<height*weidth;
