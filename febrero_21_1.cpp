@@ -14,7 +14,7 @@ int main(int argc, char *argv[]) {
 	cout<<"2da vez git"<<endl;
 	infile >>height>>weidth;
 	cout<<"Para altura del sujeto: "<<height<<" y ancho: "<<weidth<<endl;
-	cout<<"El area es: "<<height*weidth;
+	cout<<"El a´rea es: "<<height*weidth;
 	return 0;
 }
 
