@@ -16,6 +16,8 @@ int main(int argc, char *argv[]) {
 	cout<<"Para altura del sujeto: "<<height<<" y ancho: "<<weidth<<endl;
 	cout<<"Master 1"<<endl;
 	cout<<"Exp 1"<<endl
+
+	cout<<"Exp 2"<<endl;
 	cout<<"El a´rea es: "<<height*weidth;
 	return 0;
 }
