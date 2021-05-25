@@ -17,6 +17,7 @@ int main(int argc, char *argv[]) {
 	cout<<"Master 1"<<endl;
 	
 	cout<<"El a´rea es: "<<height*weidth;
+	cout<<"Finalizando el programa"<<endl
 	return 0;
 }
 
